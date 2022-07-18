@@ -1,0 +1,52 @@
+﻿div {
+    font-family: 'Segoe UI' !important;
+    font-size: 15px !important;
+    font-weight: 400 !important;
+}
+
+#InterfaceHeader {
+    max-width: 100%;
+    margin: 30px auto;
+    padding-top: 85px;
+    background: url('https://labsoft.mylimsweb.com/spa/image/logomylimstransp.png') no-repeat;
+    background-size: 250px;
+    background-position: 20px 10px;
+    background-color: #404040;
+}
+
+.k-tabstrip {
+    background-color: white;
+}
+
+.k-tabstrip-items {
+    border-bottom: 1px solid #404040;
+}
+
+.k-panelbar .k-tabstrip-items .k-state-active, .k-tabstrip-items .k-state-active {
+    background-color: white;
+    background-image: none;
+    border-color: orange !important;
+}
+
+.k-panelbar > li.k-state-default > .k-link, .k-tabstrip-items .k-item .k-link {
+    color: black;
+}
+
+.k-autocomplete, .k-draghandle, .k-dropdown-wrap, .k-grid-header, .k-grouping-header, .k-numeric-wrap, .k-pager-wrap, .k-panelbar .k-tabstrip-items .k-item, .k-progressbar, .k-state-highlight, .k-tabstrip-items .k-item, .km-pane-wrapper > .km-pane > .km-view > .km-content {
+    background-color: white;
+    border-bottom-color: black;
+}
+
+.k-tabstrip-items .k-item.k-state-hover {
+    background-color: orange;
+    border-color: orange;
+}
+
+.k-textbox[disabled], k-textbox[disabled] {
+    background-color: #eee !important;
+    cursor: not-allowed !important;
+}
+
+.row {
+    padding-bottom: 20px;
+}

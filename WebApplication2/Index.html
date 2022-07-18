@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>myLIMS</title>
+</head>
+<body>
+    <div id="InterfaceHeader">
+        <ul id="menu">
+            <li>
+                Cadastros
+                <ul>
+                    <li id="form_SampleType">
+                        Tipos de Amostra
+                    </li>
+                    <li id="form_Sample">
+                        Amostras
+                    </li>
+                    <li id="form_ServiceCenter">
+                        Centros de Serviço
+                    </li>
+                    <li id="form_SampleClass">
+                        Classes de Amostra
+                    </li>
+                    <li id="form_SampleReason">
+                        Motivos de Amostra
+                    </li>
+                </ul>
+            </li>
+            <li id="form_Config">
+                Configurações
+            </li>
+            <li id="form_News" disabled="disabled">
+                Novidades
+            </li>
+        </ul>
+    </div>
+
+    <div id="InterfaceContent">
+
+    </div>
+
+    <link rel="stylesheet" type="text/css" href="spa/bootstrap/css/bootstrap.min.css?v=1" />
+    <link rel="stylesheet" type="text/css" href="spa/bootstrap-datetimepicker/css/bootstrap-datetimepicker.min.css?v=1" />
+    <link rel="stylesheet" type="text/css" href="spa/kendo/styles/kendo.material.min.css?v=1" />
+    <link rel="stylesheet" type="text/css" href="spa/kendo/styles/kendo.material.mobile.min.css?v=1" />
+    <link rel="stylesheet" type="text/css" href="spa/kendo/styles/kendo.common-material.min.css?v=1" />
+    <link rel="stylesheet" type="text/css" href="spa/kendo/styles/kendo.dataviz.min.css?v=1" />
+    <link rel="stylesheet" type="text/css" href="spa/kendo/styles/kendo.dataviz.bootstrap.min.css?v=1" />
+    <link rel="stylesheet" type="text/css" href="spa/labsoft/styles/Labsoft.css?v=1" />
+
+    <script src="spa/myLIMSweb/myLIMSweb.Application.js"></script>
+    <script src="spa/myLIMSweb/interfaces/myLIMSweb.Interface.SampleType.js"></script>
+    <script src="spa/myLIMSweb/interfaces/myLIMSweb.Interface.SampleReason.js"></script>
+    <script src="spa/myLIMSweb/interfaces/myLIMSweb.Interface.Sample.js"></script>
+    <script src="spa/myLIMSweb/interfaces/myLIMSweb.Interface.Config.js"></script>
+
+    <script src="spa/labsoft/Labsoft.UI.Button.js"></script>
+    <script src="spa/labsoft/Labsoft.UI.TextInput.js"></script>
+    <script src="spa/labsoft/Labsoft.UI.DateTimeInput.js"></script>
+    <script src="spa/labsoft/Labsoft.UI.Grid.js"></script>
+    <script src="spa/labsoft/Labsoft.Template.js"></script>
+    <script src="spa/labsoft/Labsoft.Ajax.js"></script>
+    <script src="spa/labsoft/Labsoft.Json.js"></script>
+    <script src="spa/jquery/jquery.js"></script>
+    <script src="spa/jquery/jquery.cookie.js"></script>
+    <script src="spa/jquery/jquery.extends.js"></script>
+    <script src="spa/jquery/jquery.form.min.js"></script>
+    <script src="spa/jquery/pStrength.jquery.js"></script>
+    <script src="spa/lodash/lodash.min.js"></script>
+    <script src="spa/kendo/js/kendo.all.min.js"></script>
+    <script src="spa/kendo/js/cultures/kendo.culture.pt-BR.min.js"></script>
+    <script src="spa/kendo/js/messages/kendo.messages.pt-BR.min.js"></script>
+    <script src="spa/bootstrap/js/bootstrap.min.js"></script>
+    <script src="spa/pace/pace.js"></script>
+
+    <style>
+    </style>
+
+    <script>
+
+        $(document).ready(function () {
+
+            var app = new myLIMSweb.Application();
+            app.Start($('body'));
+
+        });
+
+    </script>
+</body>
+</html>

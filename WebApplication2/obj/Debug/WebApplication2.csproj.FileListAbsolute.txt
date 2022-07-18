@@ -1,0 +1,377 @@
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_1.resources
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.Cache
+C:\Users\Thiago Ishida\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_1.resources
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.Cache
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_2.resources
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_3.resources
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_4.resources
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_5.resources
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_6.resources
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_7.resources
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_8.resources
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2 (1)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_1.resources
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_2.resources
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_3.resources
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_4.resources
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_5.resources
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_6.resources
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_7.resources
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_8.resources
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.Cache
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\78d1cc\Desktop\Avaliação\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_1.resources
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_2.resources
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_3.resources
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_4.resources
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_5.resources
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_6.resources
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_7.resources
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_8.resources
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.Cache
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_9.resources
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_10.resources
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\78d1cc\Desktop\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_1.resources
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_2.resources
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_3.resources
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_4.resources
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_5.resources
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_6.resources
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_7.resources
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_8.resources
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_9.resources
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_10.resources
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.Cache
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Thiago Ishida\Downloads\Avaliação - Versão 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_1.resources
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_2.resources
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_3.resources
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_4.resources
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_5.resources
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_6.resources
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_7.resources
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_8.resources
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_9.resources
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_10.resources
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.Cache
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Thiago Ishida\Downloads\Avaliacao - Versao 3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\WebApplication2.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\EntityFramework.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\WebGrease.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\EntityFramework.xml
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\pt-br\System.Net.Http.Formatting.resources.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\pt-br\System.Web.Http.resources.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\bin\pt-br\System.Web.Http.WebHost.resources.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.AssemblyReference.cache
+D:\Jurask\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_1.resources
+D:\Jurask\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_2.resources
+D:\Jurask\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_3.resources
+D:\Jurask\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_4.resources
+D:\Jurask\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_5.resources
+D:\Jurask\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_6.resources
+D:\Jurask\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_7.resources
+D:\Jurask\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_8.resources
+D:\Jurask\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_9.resources
+D:\Jurask\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Migrations.work_10.resources
+D:\Jurask\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.cache
+D:\Jurask\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+D:\Jurask\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+D:\Jurask\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+D:\Jurask\Downloads\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\WebApplication2.dll.config
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\WebApplication2.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\WebApplication2.pdb
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\Antlr3.Runtime.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\EntityFramework.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\EntityFramework.SqlServer.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\Newtonsoft.Json.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Net.Http.Formatting.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.Helpers.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.Http.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.Http.WebHost.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.Mvc.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.Optimization.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.Razor.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.WebPages.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.WebPages.Razor.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\WebGrease.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\Antlr3.Runtime.pdb
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\EntityFramework.xml
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\EntityFramework.SqlServer.xml
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\Newtonsoft.Json.xml
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Net.Http.Formatting.xml
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.Helpers.xml
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.Http.xml
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.Http.WebHost.xml
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.Mvc.xml
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.Optimization.xml
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.Razor.xml
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.WebPages.xml
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\System.Web.WebPages.Razor.xml
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\pt-br\System.Net.Http.Formatting.resources.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\pt-br\System.Web.Http.resources.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\bin\pt-br\System.Web.Http.WebHost.resources.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.csproj.AssemblyReference.cache
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.Migrations.work_1.resources
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.Migrations.work_2.resources
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.Migrations.work_3.resources
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.Migrations.work_4.resources
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.Migrations.work_5.resources
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.Migrations.work_6.resources
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.Migrations.work_7.resources
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.Migrations.work_8.resources
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.Migrations.work_9.resources
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.Migrations.work_10.resources
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.Migrations.work_11.resources
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.Migrations.work_12.resources
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.cache
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.dll
+D:\Jurask\Documentos\GIT\WebApp2LabSoft\WebApplication2\obj\Debug\WebApplication2.pdb
